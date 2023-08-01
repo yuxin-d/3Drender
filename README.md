@@ -1,6 +1,4 @@
-This is a mini project which create the 3D model by js using glsl.
-
-I utilized industry-standard software like Blender and Maya, along with programming languages such as Python, C++, and GLSL (OpenGL Shading Language), to create an intricate 3D model with interactive features. 
+This is a mini project which create the 3D model by programming languages javascript and GLSL (OpenGL Shading Language), to create an intricate 3D model with interactive features. 
 
 This project showcases my proficiency in computer visualization, graphics, and shader programming.
 
